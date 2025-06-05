@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Zhiyao Cui
-![](https://github.com/sxswz213/sxswz213/blob/main/ai.jpeg)
+![](https://github.com/sxswz213/sxswz213/blob/main/image.png)
 
 I am a doctoral student from Northwestern Polytechnical University, China.
 
